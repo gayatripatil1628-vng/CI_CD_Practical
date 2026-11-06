@@ -1,0 +1,4 @@
+CI Build Report
+Model Training Successful
+Accuracy: 1.0
+Status: PASSED
